@@ -44,6 +44,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "angular-cookies": "^1.6.8"
+    "angular-cookies": "^1.6.8",
+    "grunt-cli": "^1.2.0"
   }
 }
