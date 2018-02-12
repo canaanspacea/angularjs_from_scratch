@@ -2,18 +2,25 @@
 
 This project is generated with [yo angular-require generator](https://github.com/aaronallport/generator-angular-require)
 version 3.5.0.
+##Prerequisites
+
+Install Nodejs of version higher than 4.0.0
+
+Install GIT 
 
 ## Running
 
 After cloning the repository,run the following commands:
 
-1)`npm install grunt-cli` to install grunt locally.
+Run `npm install grunt-cli` to install grunt locally.
 
-2)`bower install` to install bower components in your local machine locally.
+Run `bower install` to install bower components in your local machine locally.
 
-## Development & building
+## Development 
 
 Run `grunt serve` for development preview.
+
+## Building
 
 Run `grunt` for building.
 
